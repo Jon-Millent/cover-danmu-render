@@ -1,0 +1,19 @@
+{
+  "name": "cover-danmu-render",
+  "version": "1.0.0",
+  "description": "把视频转化为防挡弹幕配置文件。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-Millent/cover-danmu-render.git"
+  },
+  "author": "jon-millent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jon-Millent/cover-danmu-render/issues"
+  },
+  "homepage": "https://github.com/Jon-Millent/cover-danmu-render#readme"
+}
